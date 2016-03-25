@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+}
+
+p {
+ 
+	background-color: blue;
+	font-family: courier;
+	font-weight: bold;
+}
+
+body {
+
+	text-align: center;
+}
+ul {
+
+	text-align: left;
+}
